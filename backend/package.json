@@ -6,7 +6,7 @@
   "author": "iprih <priscila.silva076@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "dev": "nodemon index.js"
+    "dev": "nodemon src/index.js"
   },
   "dependencies": {
     "express": "^4.17.1",
